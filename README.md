@@ -18,6 +18,11 @@ I'm a passionate **Cybersecurity and SOC Analyst (L1)**, actively seeking opport
   - Log analysis & threat hunting
 - 🔐 Focused on defending against cyber threats & enhancing SOC capabilities
 
+## 🚀 Projects & Practice
+
+- 🛠️ **DNS Enumeration Tool** – Developed a tool to gather DNS records for domain profiling and footprinting  
+- 🌐 **Subdomain Enumeration Tool** – Created a scanner to find live subdomains using OSINT techniques  
+
 ### 🔭 I’m currently working on:
 Improving my skills in threat detection, SIEM tools, and real-time incident response.
 
