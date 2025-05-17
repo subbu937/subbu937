@@ -23,7 +23,7 @@ I'm a passionate **Cybersecurity and SOC Analyst (L1)**, actively seeking opport
 - 🛠️ **DNS Enumeration Tool** – Developed a tool to gather DNS records for domain profiling and footprinting  
 - 🌐 **Subdomain Enumeration Tool** – Created a scanner to find live subdomains using OSINT techniques  
 
-### 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 Improving my skills in threat detection, SIEM tools, and real-time incident response.
 
 ### 🌱 I’m currently learning:
@@ -34,22 +34,22 @@ Improving my skills in threat detection, SIEM tools, and real-time incident resp
 - Network traffic analysis  
 - Red Team vs Blue Team methodologies  
 
-### 👯 I’m looking to collaborate on:
+## 👯 I’m looking to collaborate on:
 Cybersecurity research, SOC workflows, and open-source security tools.
 
-### 🤔 I’m looking for help with:
+## 🤔 I’m looking for help with:
 Career opportunities and real-world security projects to gain hands-on experience.
 
-### 💬 Ask me about:
+## 💬 Ask me about:
 SOC monitoring, log analysis, incident handling, and cybersecurity fundamentals.
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 - 📧 Email: [subhashsubbu318@gmail.com](mailto:subhashsubbu318@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/subhash-vallapu](https://www.linkedin.com/in/subhash-vallapu)  
 - 🖥️ GitHub: [github.com/subbu937](https://github.com/subbu937)
 
-### 😄 Pronouns:
+## 😄 Pronouns:
 He/Him
 
-### ⚡ Fun fact:
+## ⚡ Fun fact:
 I love capturing the flag (CTF) challenges and exploring real-world attack simulations!
